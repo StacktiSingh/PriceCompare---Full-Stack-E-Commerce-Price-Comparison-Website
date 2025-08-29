@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Live Demo**: [Your Render URL will be here]
+**Live Demo**: https://pricecompare-full-stack-e-commerce-price.onrender.com/
 
 **Repository**: https://github.com/StacktiSingh/PriceCompare---Full-Stack-E-Commerce-Price-Comparison-Website
 
